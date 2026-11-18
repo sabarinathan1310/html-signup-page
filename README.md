@@ -4,7 +4,7 @@ A simple and responsive signup form built with HTML and CSS.
 
 ## Preview
 
-![Signup page preview](media/bg2.jpg)
+![Signup page preview](media/bg2.png)
 
 ## Features
 
